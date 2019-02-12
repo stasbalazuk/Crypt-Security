@@ -1,0 +1,278 @@
+object myps: Tmyps
+  Left = 728
+  Top = 334
+  BorderIcons = [biSystemMenu]
+  BorderStyle = bsDialog
+  Caption = #1047#1072#1097#1080#1090#1072' '#1083#1086#1075#1080#1085#1072' '#1080' '#1087#1072#1088#1086#1083#1103
+  ClientHeight = 250
+  ClientWidth = 286
+  Color = clBtnFace
+  Font.Charset = DEFAULT_CHARSET
+  Font.Color = clWindowText
+  Font.Height = -11
+  Font.Name = 'MS Sans Serif'
+  Font.Style = []
+  FormStyle = fsStayOnTop
+  OldCreateOrder = False
+  Position = poMainFormCenter
+  OnActivate = FormActivate
+  OnClose = FormClose
+  OnCreate = FormCreate
+  OnDestroy = FormDestroy
+  PixelsPerInch = 96
+  TextHeight = 13
+  object lbl1: TLabel
+    Left = 8
+    Top = 88
+    Width = 27
+    Height = 13
+    Caption = #1057#1072#1081#1090':'
+  end
+  object btn1: TSpeedButton
+    Left = 256
+    Top = 24
+    Width = 23
+    Height = 22
+    Hint = #1050#1086#1087#1080#1088#1086#1074#1072#1090#1100' '#1074' '#1073#1091#1092#1077#1088' ...'
+    Enabled = False
+    Glyph.Data = {
+      F6000000424DF600000000000000760000002800000010000000100000000100
+      0400000000008000000000000000000000001000000010000000000000000000
+      BF0000BF000000BFBF00BF000000BF00BF00BFBF0000C0C0C000808080000000
+      FF0000FF000000FFFF00FF000000FF00FF00FFFF0000FFFFFF00777777777777
+      7777777777777777777777777777777777777777777777777777777777777700
+      7007778007777700700778080077770070077007700000000000700770000000
+      0000780800777777777777800777777777777777777777777777777777777777
+      7777777777777777777777777777777777777777777777777777}
+    ParentShowHint = False
+    ShowHint = True
+    OnClick = btn1Click
+  end
+  object btn2: TSpeedButton
+    Left = 256
+    Top = 64
+    Width = 23
+    Height = 22
+    Hint = #1050#1086#1087#1080#1088#1086#1074#1072#1090#1100' '#1074' '#1073#1091#1092#1077#1088' ...'
+    Enabled = False
+    Glyph.Data = {
+      F6000000424DF600000000000000760000002800000010000000100000000100
+      0400000000008000000000000000000000001000000010000000000000000000
+      BF0000BF000000BFBF00BF000000BF00BF00BFBF0000C0C0C000808080000000
+      FF0000FF000000FFFF00FF000000FF00FF00FFFF0000FFFFFF00777777777777
+      7777777777777777777777777777777777777777777777777777777777777700
+      7007778007777700700778080077770070077007700000000000700770000000
+      0000780800777777777777800777777777777777777777777777777777777777
+      7777777777777777777777777777777777777777777777777777}
+    ParentShowHint = False
+    ShowHint = True
+    OnClick = btn2Click
+  end
+  object btn3: TSpeedButton
+    Left = 256
+    Top = 104
+    Width = 23
+    Height = 22
+    Hint = #1054#1087#1088#1077#1076#1077#1083#1080#1090#1100' '#1089#1072#1081#1090' ...'
+    Enabled = False
+    Glyph.Data = {
+      4E010000424D4E01000000000000760000002800000012000000120000000100
+      040000000000D800000000000000000000001000000010000000000000000000
+      BF0000BF000000BFBF00BF000000BF00BF00BFBF0000C0C0C000808080000000
+      FF0000FF000000FFFF00FF000000FF00FF00FFFF0000FFFFFF00DDDDDDDDDDDD
+      DDDDDD000000DDDDDDDDDDDDDDDDDD000000D000000000000DD00D000000D0FF
+      FFFFFFFF0D000D000000D0FFFFFFF0000800DD000000D0FFFFFF0877808DDD00
+      0000D0FFFFF0877E880DDD000000D0FFFFF07777870DDD000000D0FFFFF07E77
+      870DDD000000D0FFFFF08EE7880DDD000000D0FFFFFF087780DDDD000000D0FF
+      FFFFF0000DDDDD000000D0FFFFFFFFFF0DDDDD000000D0FFFFFFF0000DDDDD00
+      0000D0FFFFFFF070DDDDDD000000D0FFFFFFF00DDDDDDD000000DD00000000DD
+      DDDDDD000000DDDDDDDDDDDDDDDDDD000000}
+    ParentShowHint = False
+    ShowHint = True
+    OnClick = btn3Click
+  end
+  object btn4: TSpeedButton
+    Left = 256
+    Top = 176
+    Width = 23
+    Height = 22
+    Hint = #1054#1090#1082#1088#1099#1090#1100' '#1089#1072#1081#1090' '#1095#1077#1088#1077#1079' firefox...'
+    Enabled = False
+    Glyph.Data = {
+      42010000424D4201000000000000760000002800000012000000110000000100
+      040000000000CC00000000000000000000001000000010000000000000000000
+      BF0000BF000000BFBF00BF000000BF00BF00BFBF0000C0C0C000808080000000
+      FF0000FF000000FFFF00FF000000FF00FF00FFFF0000FFFFFF007777F7778888
+      87777700000077FF777777778887770000007777FF00000FF0088700000070FF
+      F00F0000FF0088000000700FF0FF0000FF00000000007700F00F000000000000
+      00007F000000000000000800000077F000000000000888000000707F00000000
+      0888870000007000FFFF777888888700000077F00FFF7778888777000000F77F
+      00778888887777000000F777F0077777777770000000F7777F00777777770000
+      0000FF7777F000777700080000008FF7777FF00000088800000078FF77777778
+      888888000000}
+    ParentShowHint = False
+    ShowHint = True
+    OnClick = btn4Click
+  end
+  object dblInputFileSize1: TLabel
+    Left = 8
+    Top = 128
+    Width = 31
+    Height = 13
+    Caption = 'E-mail:'
+  end
+  object btn5: TSpeedButton
+    Left = 256
+    Top = 144
+    Width = 23
+    Height = 22
+    Hint = #1050#1086#1087#1080#1088#1086#1074#1072#1090#1100' '#1074' '#1073#1091#1092#1077#1088' ...'
+    Enabled = False
+    Glyph.Data = {
+      42010000424D4201000000000000760000002800000011000000110000000100
+      040000000000CC00000000000000000000001000000010000000000000000000
+      BF0000BF000000BFBF00BF000000BF00BF00BFBF0000C0C0C000808080000000
+      FF0000FF000000FFFF00FF000000FF00FF00FFFF0000FFFFFF00DDDDDDDDDDDD
+      DDDDD0000000DDDDDDDDDDDDDDDDD0000000DDDDDDDDDDDDDDDDD0000000D000
+      000000000000D0000000D0FFFFFFFFFFFFF0D0000000D0FFFF44444FFFF0D000
+      0000D0FFFFFFFFFFFFF0D0000000D0FFFF444444FFF0D0000000D0FFFFFFFFFF
+      FFF0D0000000D0FFFFFFFFFF11F0D0000000D0F0000FFFFF11F0D0000000D0FF
+      FFFFFFFFFFF0D0000000D000000000000000D0000000DDDDDDDDDDDDDDDDD000
+      0000DDDDDDDDDDDDDDDDD0000000DDDDDDDDDDDDDDDDD0000000DDDDDDDDDDDD
+      DDDDD0000000}
+    ParentShowHint = False
+    ShowHint = True
+    OnClick = btn5Click
+  end
+  object Button1: TButton
+    Left = 8
+    Top = 200
+    Width = 97
+    Height = 25
+    Caption = #1057#1086#1093#1088#1072#1085#1080#1090#1100
+    TabOrder = 0
+    OnClick = Button1Click
+  end
+  object Button2: TButton
+    Left = 112
+    Top = 200
+    Width = 89
+    Height = 25
+    Caption = #1048#1079#1084#1077#1085#1080#1090#1100
+    TabOrder = 1
+    OnClick = Button2Click
+  end
+  object stat1: TStatusBar
+    Left = 0
+    Top = 231
+    Width = 286
+    Height = 19
+    Panels = <
+      item
+        Text = #1057#1090#1072#1090#1091#1089':'
+        Width = 50
+      end
+      item
+        Width = 50
+      end>
+  end
+  object cbb1: TComboBox
+    Left = 8
+    Top = 176
+    Width = 241
+    Height = 21
+    ImeName = #1056#1091#1089#1089#1082#1072#1103
+    ItemHeight = 13
+    TabOrder = 3
+    OnChange = cbb1Change
+    OnClick = cbb1Click
+  end
+  object login: TLabeledEdit
+    Left = 8
+    Top = 24
+    Width = 241
+    Height = 21
+    EditLabel.Width = 34
+    EditLabel.Height = 13
+    EditLabel.Caption = #1051#1086#1075#1080#1085':'
+    ImeName = 'Russian'
+    TabOrder = 4
+  end
+  object ps: TLabeledEdit
+    Left = 8
+    Top = 64
+    Width = 241
+    Height = 21
+    EditLabel.Width = 41
+    EditLabel.Height = 13
+    EditLabel.Caption = #1055#1072#1088#1086#1083#1100':'
+    ImeName = 'Russian'
+    TabOrder = 5
+  end
+  object sayt: TEdit
+    Left = 8
+    Top = 104
+    Width = 241
+    Height = 21
+    ImeName = 'Russian'
+    TabOrder = 6
+  end
+  object btn: TButton
+    Left = 208
+    Top = 200
+    Width = 75
+    Height = 25
+    Caption = #1059#1076#1072#1083#1080#1090#1100
+    TabOrder = 7
+    OnClick = btnClick
+  end
+  object em: TEdit
+    Left = 8
+    Top = 144
+    Width = 241
+    Height = 21
+    ImeName = 'Russian'
+    TabOrder = 8
+    Text = 'e-mail@mail.ru'
+  end
+  object chk1: TCheckBox
+    Left = 200
+    Top = 0
+    Width = 81
+    Height = 17
+    Caption = 'Edit CryptFile'
+    TabOrder = 9
+    OnClick = chk1Click
+  end
+  object chk2: TCheckBox
+    Left = 64
+    Top = 0
+    Width = 133
+    Height = 17
+    Caption = 'Security Clipboard Close'
+    TabOrder = 10
+    OnClick = chk2Click
+  end
+  object DCP_sha5121: TDCP_sha512
+    Id = 30
+    Algorithm = 'SHA512'
+    HashSize = 512
+    Left = 96
+    Top = 80
+  end
+  object DCP_rijndael1: TDCP_rijndael
+    Id = 9
+    Algorithm = 'Rijndael'
+    MaxKeySize = 256
+    BlockSize = 128
+    Left = 64
+    Top = 80
+  end
+  object tmr1: TTimer
+    Enabled = False
+    Interval = 100
+    OnTimer = tmr1Timer
+    Left = 128
+    Top = 80
+  end
+end

@@ -1,0 +1,269 @@
+[Closed Files]
+File_0=SourceModule,'I:\Delphi\Project\1_IP_Infa на почту\1_OK\stalker_good\st_smtp.pas',0,1,1,16,11,1,0
+File_1=SourceModule,'I:\Delphi\Project\1_IP_Infa на почту\1_OK\Delphi10_good\ver6\Unit1.pas',0,1,1,17,4,1,0
+File_2=SourceModule,'I:\Delphi\Project\1_IP_Infa на почту\1_MYIP\stalker_IP\spi.pas',0,1,175,81,117,1,0
+File_3=SourceModule,'I:\Delphi\Project\1_AGARIO\ver1\Unit1.pas',0,1,93,1,96,1,0
+File_4=SourceModule,'I:\Delphi\Project\1_Скрыть файлы и папки\DLL скрытия файлов и папок\ver1\Unit1.pas',0,1,31,1,39,1,0
+File_5=SourceModule,'I:\Delphi\Project\1_Скрыть файлы и папки\injectlib\main.pas',0,1,42,40,29,1,0
+File_6=SourceModule,'c:\program files (x86)\borland\delphi7\Projects\Bpl\ssl_openssl_lib.pas',0,1,76,5,81,0,0
+File_7=SourceModule,'I:\Delphi\Project\1_Поиск файлов 0 байт\ver1\Unit1.pas',0,1,95,1,104,1,0
+File_8=SourceModule,'I:\Delphi\Project\1_Поиск файлов 0 байт\724_Search\Glavna.pas',0,1,25,47,75,1,0
+File_9=SourceModule,'I:\Delphi\Project\1_Криптор\PESpin21\PESpin21\Examples\delphi\Unit1.pas',0,1,85,1,34,1,0
+
+[Modules]
+Module0=I:\Delphi\Project\1_LOCK_FILES\CRYPT_FILES\SUPER STALKERSTS 2014 NEW\test_decrypt\stalker\tor.pas
+Module1=I:\Delphi\Project\1_LOCK_FILES\CRYPT_FILES\SUPER STALKERSTS 2014 NEW\test_decrypt\stalker\crypt.dpr
+Module2=I:\Delphi\Project\1_LOCK_FILES\CRYPT_FILES\SUPER STALKERSTS 2014 NEW\test_decrypt\stalker\pw.pas
+Module3=I:\Delphi\Project\1_LOCK_FILES\CRYPT_FILES\SUPER STALKERSTS 2014 NEW\test_decrypt\stalker\edit.pas
+Module4=I:\Delphi\Project\1_LOCK_FILES\CRYPT_FILES\SUPER STALKERSTS 2014 NEW\test_decrypt\stalker\key.pas
+Count=5
+EditWindowCount=1
+
+[I:\Delphi\Project\1_LOCK_FILES\CRYPT_FILES\SUPER STALKERSTS 2014 NEW\test_decrypt\stalker\tor.pas]
+ModuleType=SourceModule
+FormState=1
+FormOnTop=0
+
+[I:\Delphi\Project\1_LOCK_FILES\CRYPT_FILES\SUPER STALKERSTS 2014 NEW\test_decrypt\stalker\crypt.dpr]
+ModuleType=SourceModule
+FormState=0
+FormOnTop=0
+
+[I:\Delphi\Project\1_LOCK_FILES\CRYPT_FILES\SUPER STALKERSTS 2014 NEW\test_decrypt\stalker\pw.pas]
+ModuleType=SourceModule
+FormState=1
+FormOnTop=1
+
+[I:\Delphi\Project\1_LOCK_FILES\CRYPT_FILES\SUPER STALKERSTS 2014 NEW\test_decrypt\stalker\edit.pas]
+ModuleType=SourceModule
+FormState=1
+FormOnTop=0
+
+[I:\Delphi\Project\1_LOCK_FILES\CRYPT_FILES\SUPER STALKERSTS 2014 NEW\test_decrypt\stalker\key.pas]
+ModuleType=SourceModule
+FormState=1
+FormOnTop=1
+
+[C:\Program Files (x86)\Borland\Delphi7\Projects\ProjectGroup1.bpg]
+FormState=0
+FormOnTop=0
+
+[EditWindow0]
+ViewCount=5
+CurrentView=3
+View0=0
+View1=1
+View2=2
+View3=3
+View4=4
+CodeExplorer=CodeExplorer@EditWindow0
+MessageView=MessageView@EditWindow0
+Create=1
+Visible=1
+State=0
+Left=200
+Top=146
+Width=1302
+Height=682
+MaxLeft=-1
+MaxTop=-1
+ClientWidth=1286
+ClientHeight=644
+LeftPanelSize=140
+LeftPanelClients=CodeExplorer@EditWindow0
+LeftPanelData=000004000000000000000000000000000000000000000000000100000000000000000C000000436F64654578706C6F726572FFFFFFFF
+RightPanelSize=0
+BottomPanelSize=0
+BottomPanelClients=MessageView@EditWindow0
+BottomPanelData=00000400010000000B0000004D6573736167655669657700000000000000000000000000000000000100000000000000000B0000004D65737361676556696577FFFFFFFF
+
+[View0]
+Module=I:\Delphi\Project\1_LOCK_FILES\CRYPT_FILES\SUPER STALKERSTS 2014 NEW\test_decrypt\stalker\key.pas
+CursorX=1
+CursorY=1
+TopLine=1
+LeftCol=1
+
+[View1]
+Module=I:\Delphi\Project\1_LOCK_FILES\CRYPT_FILES\SUPER STALKERSTS 2014 NEW\test_decrypt\stalker\edit.pas
+CursorX=21
+CursorY=9
+TopLine=1
+LeftCol=1
+
+[View2]
+Module=I:\Delphi\Project\1_LOCK_FILES\CRYPT_FILES\SUPER STALKERSTS 2014 NEW\test_decrypt\stalker\pw.pas
+CursorX=1
+CursorY=1
+TopLine=1
+LeftCol=1
+
+[View3]
+Module=I:\Delphi\Project\1_LOCK_FILES\CRYPT_FILES\SUPER STALKERSTS 2014 NEW\test_decrypt\stalker\tor.pas
+CursorX=18
+CursorY=2346
+TopLine=2343
+LeftCol=1
+
+[View4]
+Module=I:\Delphi\Project\1_LOCK_FILES\CRYPT_FILES\SUPER STALKERSTS 2014 NEW\test_decrypt\stalker\crypt.dpr
+CursorX=1
+CursorY=30
+TopLine=16
+LeftCol=1
+
+[Watches]
+Count=0
+
+[Breakpoints]
+Count=0
+
+[AddressBreakpoints]
+Count=0
+
+[Main Window]
+Create=1
+Visible=1
+State=0
+Left=0
+Top=0
+Width=1920
+Height=122
+MaxLeft=-1
+MaxTop=-1
+ClientWidth=1904
+ClientHeight=84
+
+[ProjectManager]
+Create=1
+Visible=0
+State=0
+Left=369
+Top=372
+Width=446
+Height=313
+MaxLeft=-1
+MaxTop=-1
+ClientWidth=430
+ClientHeight=279
+TBDockHeight=313
+LRDockWidth=446
+Dockable=1
+
+[AlignmentPalette]
+Create=1
+Visible=0
+State=0
+Left=200
+Top=124
+Width=156
+Height=84
+MaxLeft=-1
+MaxTop=-1
+ClientWidth=150
+ClientHeight=60
+
+[PropertyInspector]
+Create=1
+Visible=1
+State=0
+Left=0
+Top=456
+Width=190
+Height=503
+MaxLeft=-1
+MaxTop=-1
+ClientWidth=174
+ClientHeight=469
+TBDockHeight=503
+LRDockWidth=190
+Dockable=1
+SplitPos=85
+ArrangeBy=Name
+SelectedItem=Name
+ExpandedItems=
+HiddenCategories=
+
+[ObjectTree]
+Create=1
+Visible=1
+State=0
+Left=0
+Top=122
+Width=190
+Height=332
+MaxLeft=-1
+MaxTop=-1
+ClientWidth=174
+ClientHeight=298
+TBDockHeight=332
+LRDockWidth=190
+Dockable=1
+
+[fmGrepResults]
+Create=1
+Visible=0
+State=0
+Left=682
+Top=186
+Width=556
+Height=583
+MaxLeft=-1
+MaxTop=-1
+ClientWidth=540
+ClientHeight=549
+TBDockHeight=583
+LRDockWidth=556
+Dockable=1
+
+[fmMacroLibrary]
+Create=1
+Visible=0
+State=0
+Left=786
+Top=272
+Width=347
+Height=411
+MaxLeft=-1
+MaxTop=-1
+ClientWidth=331
+ClientHeight=377
+TBDockHeight=411
+LRDockWidth=347
+Dockable=1
+
+[CodeExplorer@EditWindow0]
+Create=1
+Visible=1
+State=0
+Left=0
+Top=12
+Width=140
+Height=632
+MaxLeft=-1
+MaxTop=-1
+ClientWidth=140
+ClientHeight=632
+TBDockHeight=305
+LRDockWidth=140
+Dockable=1
+
+[MessageView@EditWindow0]
+Create=1
+Visible=0
+State=0
+Left=12
+Top=0
+Width=1274
+Height=85
+MaxLeft=-1
+MaxTop=-1
+ClientWidth=1274
+ClientHeight=85
+TBDockHeight=85
+LRDockWidth=443
+Dockable=1
+
+[DockHosts]
+DockHostCount=0
+
